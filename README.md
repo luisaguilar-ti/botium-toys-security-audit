@@ -71,3 +71,38 @@ Revise los siguientes puntos para obtener detalles específicos:
 * Aunque los sistemas heredados son monitoreados y mantenidos, no existe un calendario regular para estas tareas y los métodos de intervención no están claramente definidos.
 * La ubicación física de la tienda, que incluye oficinas principales, tienda y almacén, cuenta con cerraduras adecuadas, cámaras CCTV actualizadas y sistemas funcionales de detección y prevención de incendios.
 
+
+
+
+
+---
+
+# Evidencias Visuales
+
+## 1. Diagrama de Infraestructura
+
+![Diagrama de Infraestructura](assets/01-diagrama-infraestructura.png)
+
+---
+
+## 2. Matriz de Riesgos
+
+![Matriz de Riesgos](assets/02-matriz-riesgos.png)
+
+---
+
+## 3. Resumen de Controles Evaluados
+
+![Resumen de Controles](assets/03-resumen-controles.png)
+
+---
+
+## 4. Mapa de Cumplimiento
+
+![Mapa de Cumplimiento](assets/04-mapa-cumplimiento.png)
+
+---
+
+## 5. Dashboard Ejecutivo de Auditoría
+
+![Dashboard Ejecutivo](assets/05-dashboard-ejecutivo.png)

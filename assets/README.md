@@ -28,6 +28,6 @@ This folder contains screenshots and supporting files for the security audit pro
 
 ---
 
-### 5. Dashboard Ejecutivo
+### 5. Dashboard Ejecutivo de Auditoría
 
 ![Dashboard Ejecutivo](assets/05-dashboard-ejecutivo.png)
